@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.uas_1911500328_ab">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/dhamma"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UAS_1911500328_AB">
+        <activity android:name=".updatebiodatamurid"></activity>
+        <activity android:name=".lihatbiodatamurid" />
+        <activity android:name=".buatbiodatamurid" />
+        <activity android:name=".lihatnilaimurid" />
+        <activity android:name=".updatenilaimurid" />
+        <activity android:name=".buatnilaimurid" />
+        <activity android:name=".datamurid" />
+        <activity android:name=".nilaimurid" />
+        <activity android:name=".updateabsenfasilitator" />
+        <activity android:name=".lihatabsenfasilitator" />
+        <activity android:name=".buatabsenfasilitator" />
+        <activity android:name=".updatebiodatafasilitator" />
+        <activity android:name=".lihatbiodatafasilitator" />
+        <activity android:name=".buatbiodatafasilitator" />
+        <activity android:name=".jadwaldesember" />
+        <activity android:name=".jadwalnovember" />
+        <activity android:name=".jadwaloktober" />
+        <activity android:name=".jadwalseptember" />
+        <activity android:name=".jadwalagustus" />
+        <activity android:name=".jadwaljuli" />
+        <activity android:name=".jadwaljuni" />
+        <activity android:name=".jadwalmei" />
+        <activity android:name=".jadwalapril" />
+        <activity android:name=".jadwalmaret" />
+        <activity android:name=".jadwalfebruari" />
+        <activity android:name=".jadwaljanuari" />
+        <activity android:name=".jadwalfasilitator" />
+        <activity android:name=".absenfasilitator" />
+        <activity android:name=".piketdesember" />
+        <activity android:name=".piketnovemberr" />
+        <activity android:name=".piketoktober" />
+        <activity android:name=".piketseptember" />
+        <activity android:name=".piketagustus" />
+        <activity android:name=".piketjuli" />
+        <activity android:name=".piketjuni" />
+        <activity android:name=".piketmei" />
+        <activity android:name=".piketapril" />
+        <activity android:name=".piketmaret" />
+        <activity android:name=".piketfebruari" />
+        <activity android:name=".piketjanuari" />
+        <activity android:name=".piketfasilitator" />
+        <activity android:name=".materipanna" />
+        <activity android:name=".materisamadhi" />
+        <activity android:name=".materisatthi" />
+        <activity android:name=".materiviriya" />
+        <activity android:name=".materisaddha" />
+        <activity android:name=".matericagga" />
+        <activity android:name=".parittapanna" />
+        <activity android:name=".parittasamadhi" />
+        <activity android:name=".parittasatthi" />
+        <activity android:name=".parittaviriya" />
+        <activity android:name=".parittasaddha" />
+        <activity android:name=".parittacagga" />
+        <activity android:name=".panna" />
+        <activity android:name=".samadhi" />
+        <activity android:name=".satthi" />
+        <activity android:name=".viriya" />
+        <activity android:name=".saddha" />
+        <activity android:name=".cagga" />
+        <activity android:name=".murid" />
+        <activity android:name=".datafasilitator" />
+        <activity android:name=".fasilitatorr" />
+        <activity android:name=".login" />
+        <activity android:name=".splashscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

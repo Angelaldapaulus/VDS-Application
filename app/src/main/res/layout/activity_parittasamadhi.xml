@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4DCB8"
+    android:orientation="vertical"
+    tools:context=".parittasamadhi">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:src="@drawable/wheel">
+        </ImageView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="40dp"
+            android:text="Samadhi">
+        </TextView>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/namakaragatha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NAMAKĀRA GĀTHĀ"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="120dp"
+        android:textColor="@color/white">
+    </Button>
+
+    <Button
+        android:id="@+id/pubbabhaganamakara"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PUBBABHĀGANAMAKĀRA"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="170dp"
+        android:textColor="@color/white">
+    </Button>
+
+    <Button
+        android:id="@+id/pancasila"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PAÑCASĪLA"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="220dp"
+        android:textColor="@color/white">
+    </Button>
+
+    <Button
+        android:id="@+id/tisarana"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TISARAṆA"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="270dp"
+        android:textColor="@color/white">
+    </Button>
+
+    <Button
+        android:id="@+id/buddhanusati"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BUDDHĀNUSSATI"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="320dp"
+        android:textColor="@color/white">
+    </Button>
+
+</RelativeLayout>

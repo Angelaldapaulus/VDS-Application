@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Angel_Alda/AndroidStudioProjects/UAS_1911500328_AB/app/src/main/res/drawable/ic_add.xml" value="0.1835" />
+        <entry key="..\:/Users/Angel_Alda/AndroidStudioProjects/UAS_1911500328_AB/app/src/main/res/layout/activity_absenfasilitator.xml" value="0.12613981762917933" />
+        <entry key="..\:/Users/Angel_Alda/AndroidStudioProjects/UAS_1911500328_AB/app/src/main/res/layout/activity_buatabsenfasilitator.xml" value="0.12613981762917933" />
+        <entry key="..\:/Users/Angel_Alda/AndroidStudioProjects/UAS_1911500328_AB/app/src/main/res/layout/activity_buatbiodatafasilitator.xml" value="0.12613981762917933" />
+        <entry key="..\:/Users/Angel_Alda/AndroidStudioProjects/UAS_1911500328_AB/app/src/main/res/layout/activity_buatbiodatamurid.xml" value="0.12613981762917933" />
+        <entry key="..\:/Users/Angel_Alda/AndroidStudioProjects/UAS_1911500328_AB/app/src/main/res/layout/activity_buatnilaimurid.xml" value="0.12613981762917933" />
+        <entry key="..\:/Users/Angel_Alda/AndroidStudioProjects/UAS_1911500328_AB/app/src/main/res/layout/activity_cagga.xml" value="0.12613981762917933" />
+        <entry key="..\:/Users/Angel_Alda/AndroidStudioProjects/UAS_1911500328_AB/app/src/main/res/layout/activity_jadwalmei.xml" value="0.1453804347826087" />
+        <entry key="..\:/Users/Angel_Alda/AndroidStudioProjects/UAS_1911500328_AB/app/src/main/res/layout/activity_login.xml" value="0.1453804347826087" />
+        <entry key="..\:/Users/Angel_Alda/AndroidStudioProjects/UAS_1911500328_AB/app/src/main/res/layout/activity_main.xml" value="0.1453804347826087" />
+        <entry key="..\:/Users/Angel_Alda/AndroidStudioProjects/UAS_1911500328_AB/app/src/main/res/layout/activity_matericagga.xml" value="0.1453804347826087" />
+        <entry key="..\:/Users/Angel_Alda/AndroidStudioProjects/UAS_1911500328_AB/app/src/main/res/layout/activity_splashscreen.xml" value="0.12613981762917933" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4DCB8"
+    android:orientation="vertical"
+    tools:context=".satthi">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:src="@drawable/wheel">
+        </ImageView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="40dp"
+            android:text="Satthi">
+        </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="50dp"
+        android:id="@+id/parittasatthi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="parittasatthi"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Paritta"
+            android:textSize="20dp"
+            android:textColor="@color/black">
+        </TextView>
+
+        <ImageView
+            android:layout_width="175dp"
+            android:layout_height="175dp"
+            android:layout_gravity="center"
+            android:src="@drawable/wheel1">
+        </ImageView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/materisatthi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="materisatthi"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_marginTop="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Materi"
+            android:textSize="20dp"
+            android:textColor="@color/black">
+        </TextView>
+
+        <ImageView
+            android:layout_width="175dp"
+            android:layout_height="175dp"
+            android:layout_gravity="center"
+            android:src="@drawable/books">
+        </ImageView>
+    </LinearLayout>
+
+</LinearLayout>
